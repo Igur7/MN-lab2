@@ -108,4 +108,3 @@ def log_plot(x:np.ndarray,y:np.ndarray,xlabel:np.ndarray,ylabel:str,title:str,lo
         Wykres (x, y) ze skalą logarytmiczną, zgodny z opisem z zadania 7.  
     """
     return None
-
